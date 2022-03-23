@@ -9,6 +9,6 @@ XposedHook所需要的工具资源
 
 
 
-### 2、[WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook）
+### 2、[WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook)
 
 
