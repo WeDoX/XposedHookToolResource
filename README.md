@@ -8,3 +8,7 @@ XposedHook所需要的工具资源
 [jadx下载网址](https://github.com/skylot/jadx)
 
 
+
+### 2、[WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook）
+
+
